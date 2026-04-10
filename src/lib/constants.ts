@@ -284,7 +284,7 @@ export const PRICING_PLANS = [
     description: "A solid start for anyone managing a handful of recurring tasks.",
     featured: false,
     features: [
-      "Up to 10 recurring items",
+      "Up to 3 recurring items",
       "Dashboard view",
       "Basic category organization",
       "Completion history",
@@ -294,7 +294,7 @@ export const PRICING_PLANS = [
   },
   {
     name: "Pro",
-    price: "5",
+    price: "3",
     period: "per month · billed monthly",
     description: "For anyone who takes their recurring responsibilities seriously.",
     featured: true,
@@ -307,7 +307,7 @@ export const PRICING_PLANS = [
       "Priority support",
       "Early access to new features",
     ],
-    cta: "Get Pro — $5/mo",
+    cta: "Get Pro — $3/mo",
   },
   {
     name: "Family",
